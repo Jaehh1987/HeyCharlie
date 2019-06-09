@@ -30,8 +30,9 @@ Tools:
  - Library: NLTK, TensorFlow
  
 Milestone for 12 weeks
+
 |Weeks|Date|Jay|Su|
--------------------
+|-----|----|---|--|
 |0 |19-06-09|Plan and launch the project|<--|
 |1 |19-06-16|Research on how to organize the project structure and which framework to use|<--|
 |2 |19-06-23|Set up the basic project structure based on the framework|<--|
