@@ -34,9 +34,9 @@ Milestone for 12 weeks
 |Weeks|Date|Jay|Su|
 |:-----:|-----------|---|---|
 |0 |19-06-09|Plan and launch the project|<--|
-|1 |19-06-16|Research on how to organize the project structure and which framework to use|<--|
-|2 |19-06-23|Set up the basic project structure based on the framework|<--|
-|3 |19-06-30|Set up the basic project structure based on the framework|<--|
+|1 |19-06-16|Research on how to organize the project structure and which framework to use| Research on the basic Chat-bot|
+|2 |19-06-23|Set up the basic project structure based on the framework| Take Introduction To NLP in Coursera (1/2) |
+|3 |19-06-30|Set up the basic project structure based on the framework| Take Introduction To NLP in Coursera (2/2)|
 |4 |19-07-07|Build the android app that provides chat room|Build the search engine that can find the restaurant with given criteria|
 |5 |19-07-14|Build the server that can reply back the original input to the client|Build the search engine that can find the restaurant with given criteria|
 |6 |19-07-21|Build the server that can reply back the original input to the client|Build the search engine that can find the restaurant with given criteria|
