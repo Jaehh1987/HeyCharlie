@@ -34,15 +34,15 @@ Milestone for 12 weeks
 |Weeks|Date|Jay|Su|
 |:-----:|-----------|---|---|
 |0 |19-06-09|Plan and launch the project|<--|
-|1 |19-06-16|Research on how to organize the project structure and which framework to use|<--|
-|2 |19-06-23|Set up the basic project structure based on the framework|<--|
-|3 |19-06-30|Set up the basic project structure based on the framework|<--|
-|4 |19-07-07|Build the android app that provides chat room|Build the search engine that can find the restaurant with given criteria|
-|5 |19-07-14|Build the server that can reply back the original input to the client|Build the search engine that can find the restaurant with given criteria|
-|6 |19-07-21|Build the server that can reply back the original input to the client|Build the search engine that can find the restaurant with given criteria|
-|7 |19-07-28|Merge search engine into server code and build communication b/w them|<--|
-|8 |19-08-04|Integration of each component (Client, Server, Search Engline)|<--| 
-|9 |19-08-11|Integration of each component (Client, Server, Search Engline)|<--|
+|1 |19-06-16|Research on how to organize the project structure and which framework to use| Research on the basic Chat-bot|
+|2 |19-06-23|Set up the basic project structure based on the framework| Take "Introduction To NLP" in Coursera (1/2) |
+|3 |19-06-30|Set up the basic project structure based on the framework| Take "Introduction To NLP" in Coursera (2/2)|
+|4 |19-07-07|Build the android app that provides chat room| Train/test basic chat-bot system on GPU|
+|5 |19-07-14|Build the server that can reply back the original input to the client| Train/test basic chat-bot system on GPU|
+|6 |19-07-21|Build the server that can reply back the original input to the client| Build the search engine that can find the restaurant with given criteria||
+|7 |19-07-28|Merge search engine into server code and build communication b/w them|Build the search engine that can find the restaurant with given criteria|
+|8 |19-08-04|Integration of each component (Client, Server, Search Engline)|Integration with Server & DB | 
+|9 |19-08-11|Integration of each component (Client, Server, Search Engline)|Integration with Server & DB|
 |10|19-08-18|Bug fix|<--|
 |11|19-08-25|Bug fix|<--|
 |12|19-09-01|Documenting|<--|
